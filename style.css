@@ -544,13 +544,13 @@ ul {
   background-position: center top;
 }
 .bg10 {
-  background-image: url(images/bg/counter.jpeg);
+  background-image: url(images/bg/banner-1.png);
   background-size: cover;
   background-attachment: fixed;
   background-position: center top;
 }
 .bg11 {
-  background-image: url(images/bg/youtube.png);
+  background-image: url(images/bg/course.jpg);
   background-position: center top;
   background-size: cover;
   padding-top: 200px;
@@ -2121,11 +2121,12 @@ ul {
   -webkit-animation: swing-anim2 2s alternate-reverse infinite;
 }
 .rs-banner-section3 {
-  background: url(images/bg/banner.jpg);
+  background: url(images/bg/banner.png);
   background-repeat: no-repeat;
   padding-top: 100px;
   padding-bottom: 100px;
   background-size: cover;
+  background-position: center right;
 }
 
 @media only screen and (max-width: 600px)

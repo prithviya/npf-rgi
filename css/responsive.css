@@ -386,7 +386,7 @@
         padding-bottom: 0;
     }
     .rs-transfarent-header-style{
-        background: #143d59;
+        background: #2f2f2f;
     }
     .home3 .rs-header .searce-box,
     .home5 .rs-header .searce-box {
@@ -677,7 +677,7 @@
     }
     .rs-team-2.pt-100,
     #rs-footer .footer-contact-desc{
-         padding-top: 50px !important;
+         padding-top: 120px !important;
     }
     .shop-single-page-area .inner-single-product-slider,
     #rs-footer .footer-contact-desc{
