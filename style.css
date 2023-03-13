@@ -544,13 +544,13 @@ ul {
   background-position: center top;
 }
 .bg10 {
-  background-image: url(images/bg/banner-1.png);
+  background-image: url(images/bg/counter.png);
   background-size: cover;
   background-attachment: fixed;
   background-position: center top;
 }
 .bg11 {
-  background-image: url(images/bg/course.jpg);
+  background-image: url(images/bg/course.png);
   background-position: center top;
   background-size: cover;
   padding-top: 200px;
